@@ -27,16 +27,16 @@ header-includes: |
   \AddToShipoutPictureBG{\AtTextLowerLeft{\put(+90,+100){\transparent{0.1}\includegraphics[width=4in]{img/Harikar.png}}}}
 ---
 
-Job Title:  
-Project Name:  
-Project Area:  
-Vacancy Ref No:  
-Applicants Residence:  
-Preferable Gender:  
-Duration of Appointment:  
-Expected Starting Date:  
-Deadline:  
-Type of Contract: Employment Contract  
+Job Title: Cleaner  
+Project Name: Enhancing GBV Prevention and Response services to children and community members in Ninewa governorate  
+Project Area: Ninawah (Bardarsh,Zummar,West Mosul,non-camp and Shekhan camp)  
+Vacancy Ref No: 69  
+Applicants Residence: Shekhan Camp
+Preferable Gender: Female  
+Duration of Appointment: 8 months  
+Expected Starting Date: 15 Nov 2021  
+Deadline: 13 Nov 2021  
+Type of Contract: Full time  
 WorkingHours: 8:00AM \_ 3:30PM
 
 ### Background:
@@ -47,23 +47,52 @@ Harikar NGO is a neutral, non-governmental, non-profit humanitarian organization
 
 ### Job Overview:
 
+Under the overall supervision of the Center Manager, the holder will take responsibility for the general cleanliness and health promotion activities at the center
+
 ### Scope of Work (Duties and Responsibilities):
 
+1. Objective 1: Cleaning the center
+
+   - Clean the office and arrange the shelves.
+   - Watering trees/grass.
+   - Safekeeping of cleaning materials.
+   - Sweep and mop floors.
+   - Clean buildings by emptying trash, sweeping, and cleaning surfaces.
+   - Monitor building security and safety by performing such tasks as locking doors after operating hours and checking electrical appliance use to ensure that hazards are not created.
+   - Use cleaning solutions to remove stains and clean surfaces.
+   - Clean windows using soapy water or other cleaners, sponges, and squeegees.
+   - Dust furniture and scrub surface clean.
+   - Clean and service restrooms with mops and disinfectants.
+   - Move heavy equipment and furniture.
+   - Identify and report possible repairs.
+   - Fix minor plumbing leaks.
+   - Spray insecticides and fumigants to prevent insect and rodent infestation.
+
+- Summary:
+  - Clean the office
+
 ### Additional Duties and Responsibilities:
+
+- Good communication skills (written and oral): Sensitivity to and responsiveness to project staff, local authorities, and the community.
+- Commitment to the job and the organization.
+- Responds positively to critical feedback and differing points of view.
+- Solicits feedback from staff about the impact of his/her own behavior.
 
 ### Experience, Qualifications and Skills:
 
 - Educational Qualifications:
 
+  - No university degree is required
+
 - Professional Experience:
 
-- Skills:
+  - At least one year of experience in working with other service provides
+  - Good communication skills.
 
 ### Reporting and Supervision
 
-Reports to:
-
-Supervises:
+Reports to: Center Manager
+Supervises: None
 
 ### Expected Conduct:
 

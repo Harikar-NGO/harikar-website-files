@@ -27,16 +27,16 @@ header-includes: |
   \AddToShipoutPictureBG{\AtTextLowerLeft{\put(+90,+100){\transparent{0.1}\includegraphics[width=4in]{img/Harikar.png}}}}
 ---
 
-Job Title:  
-Project Name:  
-Project Area:  
-Vacancy Ref No:  
-Applicants Residence:  
-Preferable Gender:  
-Duration of Appointment:  
-Expected Starting Date:  
-Deadline:  
-Type of Contract: Employment Contract  
+Job Title: Guard  
+Project Name: Enhancing GBV Prevention and Response services to children and community members in Ninewa governorate  
+Project Area: Ninawah (Bardarsh,Zummar,West Mosul,non-camp and Shekhan camp)  
+Vacancy Ref No: 73  
+Applicants Residence: Shekhan Camp
+Preferable Gender: Male  
+Duration of Appointment: 8 months  
+Expected Starting Date: 15 Nov 2021  
+Deadline: 13 Nov 2021  
+Type of Contract: Full time  
 WorkingHours: 8:00AM \_ 3:30PM
 
 ### Background:
@@ -47,23 +47,43 @@ Harikar NGO is a neutral, non-governmental, non-profit humanitarian organization
 
 ### Job Overview:
 
+Under the overall supervision of the Center Manager, the holder will take responsibility for safekeeping of all project materials, equipment and compound.
+
 ### Scope of Work (Duties and Responsibilities):
 
+1. Objective 1: Guarding the enter
+
+   - Monitor and authorize entrance and departure of employees, visitors, and other persons to guard against theft and maintain security of premises.
+   - Write reports of daily activities and irregularities, such as equipment or property damage, theft, presence of unauthorized persons, or unusual occurrences.
+   - Call police or fire departments in cases of emergency, such as fire or presence of unauthorized persons.
+   - Circulate among visitors, patrons, and employees to preserve order and protect the property more so during open days
+   - Watering trees/grass.
+
+- Summary:
+  - Guarding the center
+
 ### Additional Duties and Responsibilities:
+
+- Good communication skills (written and oral): Sensitivity to and responsiveness to project staff, local authorities, and the community.
+- Commitment to the job and the organization.
+- Responds positively to critical feedback and differing points of view.
+- Solicits feedback from staff about the impact of his/her own behavior.
 
 ### Experience, Qualifications and Skills:
 
 - Educational Qualifications:
 
+  - No university degree is required
+
 - Professional Experience:
 
-- Skills:
+  - At least one year of experience in working with other service provides
+  - Good communication skills inclusing writing skills
 
 ### Reporting and Supervision
 
-Reports to:
-
-Supervises:
+Reports to: Center Manager
+Supervises: None
 
 ### Expected Conduct:
 

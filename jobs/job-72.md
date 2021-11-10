@@ -27,16 +27,16 @@ header-includes: |
   \AddToShipoutPictureBG{\AtTextLowerLeft{\put(+90,+100){\transparent{0.1}\includegraphics[width=4in]{img/Harikar.png}}}}
 ---
 
-Job Title:  
-Project Name:  
-Project Area:  
-Vacancy Ref No:  
-Applicants Residence:  
-Preferable Gender:  
-Duration of Appointment:  
-Expected Starting Date:  
-Deadline:  
-Type of Contract: Employment Contract  
+Job Title: Community Mobilizer  
+Project Name: Enhancing GBV Prevention and Response services to children and community members in Ninewa governorate  
+Project Area: Ninawah (Bardarsh,Zummar,West Mosul,non-camp and Shekhan camp)  
+Vacancy Ref No: 72  
+Applicants Residence: Shekhan Camp
+Preferable Gender: One Male and one Female  
+Duration of Appointment: 8 months  
+Expected Starting Date: 15 Nov 2021  
+Deadline: 13 Nov 2021  
+Type of Contract: Full time  
 WorkingHours: 8:00AM \_ 3:30PM
 
 ### Background:
@@ -47,23 +47,68 @@ Harikar NGO is a neutral, non-governmental, non-profit humanitarian organization
 
 ### Job Overview:
 
+Under the overall supervision of the Center manager, the SGBV Community Mobilizer will support the direct implementation of GBV response activities in Shekhan Camp. Further, the SGBV Community Mobilizer will be responsible for enhancing community participation and ownership in SGBV activities targeting SGBV Survivors, vulnerable women & girls. Information dissemination to the Community based Support group members to ensure successful implementation of the GBV Response and Prevention activities.
+
 ### Scope of Work (Duties and Responsibilities):
 
+1. Objective 1: Documentation for Persons of Concern
+
+   - Information dissemination of services offered at Women and girls safe spaces
+   - Facilitate appropriate referrals for persons of concern.
+   - Assist in organizing group sessions for activities
+   - Conduct safety assessments and safety audits
+   - Ensure confidentiality is maintained at all documentation.
+
+1. Objective 2: Community Psycho-Education and Capacity building
+
+   - Conduct regular community mobilization and sensitization on psychosocial issues and encourage community participation.
+   - Conduct Focus Group Discussion (FGDs) on different psychosocial issues relevant to the community.
+   - Assist in organizing and conducting Lifeskills Workshops on relevant psychosocial issues for specific groups e.g. youths.
+   - Coordinate with other relevant resources to ensure the delivery of further community awareness sessions on GBV related issues.
+   - Assist in the recruitment and registration of new peer club members.
+   - Conduct community outreach to disseminate information on available services
+   - Providing information about available services, including referrals to on-to-one counseling services for women and men
+
+1. Objective 3: Data Management
+
+   - Maintain an up-to-date data system for all activities conducted:
+   - Ensure all field activities are recorded in the field activity form and placed in the file.
+   - Ensure that the numbers reached are indicated in the weekly data form.
+   - report writing.
+
+- Summary:
+  - Coordinate with other relevant resources to ensure the delivery of further community awareness sessions on GBV topics
+  - Facilitating the awareness sessions
+  - Capacity building for the community leaders.
+  - identify and facilitate the participation of women and girls survivors or at risk of violence in the activities
+  - Organize and deliver community awareness-raising events and safety audits as determined by project objectives.
+
 ### Additional Duties and Responsibilities:
+
+- Good communication skills (written and oral): Sensitivity to and responsiveness to project staff, local authorities, and the community.
+- Commitment to the job and the organization.
+- Responds positively to critical feedback and differing points of view.
+- Solicits feedback from staff about the impact of his/her own behavior.
 
 ### Experience, Qualifications and Skills:
 
 - Educational Qualifications:
 
+  - University Degree in sociology, psychology, or relevant field.
+
 - Professional Experience:
 
-- Skills:
+  - At least one year of experience in GBV Projects
+  - Good communication skills including writing skills.
+  - Strong management skills.
+  - Strong training & facilitation skills.
+  - Knowledge on GBV, humanitarian field.
+  - Fluency in written and spoken Kurdish, Arabic.
 
 ### Reporting and Supervision
 
-Reports to:
-
-Supervises:
+Reports to: Center Manager
+Supervises: None
 
 ### Expected Conduct:
 
