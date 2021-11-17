@@ -29,16 +29,16 @@ header-includes: |
 
 
 Job Title: Security Officer  
-Project Name: GIZ  
+Project Name: Water conservation campaign in Duhok and Neinawa  
+Project Area: Duhok and Nineveh governorate  
 Vacancy Ref. No: 78  
-Work Duty Station: Duhok and Nineveh governorate  
-Applicants Duty Station: Duhok and Nineveh governorate  
+Applicants Residence: Duhok and Nineveh governorate  
 Preferable Gender: Male  
 Duration of Appointment: 7 Months  
 Expected Starting Date: 1st Dec 2021  
 Deadline: 23 November 2021  
 Type of Contract: Part Time  
-WorkingHours: 8:00AM \_ 3:30PM
+WorkingHours: 8:00AM _ 3:30PM
 
 ### Background:
 
