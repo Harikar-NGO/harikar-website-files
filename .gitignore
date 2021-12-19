@@ -1,1 +1,3 @@
 /jobs/*.docx
+/jobs/*.md#
+*.tmp
