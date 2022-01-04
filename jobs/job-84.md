@@ -255,12 +255,12 @@ stakeholders:**
 - All Harikar policies, guidelines and checklists are an integral part
   of this Job Description and must be implemented, e.g.:
 
-- Harikar Operational Guidelines and Policies.
+    - Harikar Operational Guidelines and Policies.
 
-- Guidelines on Prevention of Corruption.
+    - Guidelines on Prevention of Corruption.
 
-- Guideline on PSEA.
+    - Guideline on PSEA.
 
-- Harikar Code of Conduct and
+    - Harikar Code of Conduct and
 
-- Checklist for procurement documents filing for supporting documents.
+    - Checklist for procurement documents filing for supporting documents.
