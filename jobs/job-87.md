@@ -1,0 +1,215 @@
+---
+title: |
+  ![](img/Harikar.png){width=0.6in} \ \ \ \ 
+  \color{harikar} \fontsize{28}{12} \selectfont Vacancy Announcement
+header-includes: |
+  \usepackage{fancyhdr}
+  \usepackage{graphicx}
+  \usepackage{eso-pic}
+  \usepackage{transparent}
+  \usepackage{geometry}
+  \usepackage{xcolor}
+  \usepackage{sectsty}
+  \pagestyle{fancy}
+  \fancypagestyle{plain}{}
+  \addtolength{\headwidth}{\linewidth}
+  \fancyheadoffset{\textwidth}
+  \geometry{includeheadfoot,top=0in,left=1in,right=1in,bottom=0.5in}
+  \definecolor{harikar}{rgb}{0.29,0.38,0.65}
+  \sectionfont{\color{harikar}}
+  \subsubsectionfont{\color{harikar}}
+  \fancyhf{}
+  \lfoot{\includegraphics[scale=1]{img/address.png} \color{harikar} Iraq-Kurdistan – Duhok \\ \ \ \ \ Medya – Str. / Australia   }
+  \cfoot{\includegraphics[scale=1]{img/unit.png} \color{harikar} HR Unit \ \ \ \ \ \ \ \ \ \ \ \ \ \includegraphics[scale=1]{img/phone.png} 0751 414 8317}
+  \rfoot{\includegraphics[scale=1]{img/web.png} \color{harikar} www.harikar.org}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{1pt}
+  \AddToShipoutPictureBG{\AtTextLowerLeft{\put(+90,+100){\transparent{0.1}\includegraphics[width=4in]{img/Harikar.png}}}}
+---
+
+Job Title: Case Manager/PSS facilitator (Full time)  
+Project Name: Strengthening Access to specialized protection services for returnees, IDPS in Ninewa governorate  
+Project Area: Neinawa Governorates  
+Vacancy Ref. No: 87  
+Number of Vacancies: 3  
+Applicants Residency: Hatra District (Outside Mosul city), Sinuni (Alshamal subdistrict), Qayrawan (Sinjar District)  
+Preferable Gender: Female and Male  
+Duration of Appointment: 7 Months  
+Expected Starting Date: 1 February 2022  
+Deadline: 13 January 2022  
+Type of Contract: Full time  
+Working Hours: 8:00am\_3:30PM  
+
+### Background:
+
+Harikar NGO is a neutral, non-governmental, non-profit humanitarian
+organization established on 30th May 2004 by a group of social
+activists. Harikar NGO as stated in its mission statement strives toward
+the fulfilment of human and women rights in Dohuk Governorate as
+stipulated in the new Iraqi constitution of 15th October 2005. Harikar
+is committed to- within its resources- contribute towards the
+achievement of the internationally agreed Millennium Development Goals.
+Harikar believes in human rights, the right of every person to reach
+his/her potential without discrimination on the basis of race, gender,
+religion, social segment and ethnicity. Harikar strives to achieve
+social justice especially among the marginalized vulnerable groups and
+works towards eliminating all forms of discrimination against women by
+promoting their capacity to fully participate in community development.
+Harikar has been able to successfully carry out more than 80 projects,
+through funding from various partners including UNFPA, RRT/PRT, UNHCR,
+UNESCO, UNICEF, UNOCHA, Diakonia, UNDP, UNOPS, IRD, Mercy Corps, CARE
+International, ASB, GIZ, Acted, IRC, IRI, NDI, SCF-UK, Mission east,
+ICSP and others.
+
+#Terms of References
+
+### Job Overview:
+
+Under the direct supervision of Project Assistant, the Case worker/PSS
+facilitator is in charge of providing case management, psychosocial
+support, referrals to the identified cases of rights-violation to help
+them recover from the experienced abuse. Also, encourage clients to
+discuss emotions and experiences. Examine issues including substance
+abuse, aging, bullying, anger management, careers, depression,
+relationships, help cases define goals, plan action and gain insight,
+develop therapeutic processes, and take a holistic (mind and body)
+approach to mental health care.
+
+### Scope of Work (Duties and Responsibilities):
+
+-   Actively identify protection concerns of the persons of concern and
+    respond to them in an effective and timely manner.
+
+-   Provide protection and specialized services to the identified cases
+    including case management and PSS (in person and remotely).
+
+-   Ensure confidentiality is maintained at all phases of client
+    management and documentation.
+
+-   Use appropriate formats for documenting and referring protection
+    interventions, including PAs (Protection Assessments).
+
+-   Maintain in-depth knowledge of referral pathways and eligibility
+    criteria to services related to legal protection issues such as
+    registration, documentation, civil status, detentions, SGBV and
+    Child Protection and any other basic and most common protection
+    concerns.
+
+-   Track & Maintain records of client referrals
+
+-   Follow up on all referred clients to ensure they are provided with
+    the assistance needed.
+
+-   Ensure Humanitarian Accountability Principles are mainstreamed in
+    the day-to-day project implementation
+
+-   Assist in preparing daily, monthly, quarterly, and annual reports,
+    progress notes, and treatment plans on time.
+
+### Summary:
+
+-   Work towards the achievement of overall goals through effective
+    implementation, and coordination with other service providers.
+
+-   Ensure appropriate community involvement in design and delivery of
+    services.
+
+-   Development and carry out need assessment, FGDs, interviews to
+    improve the project.
+
+
+### Additional Duties and Responsibilities:
+
+
+-   Organizes and accurately completes multiple tasks by establishing
+    priorities while taking into consideration special assignments,
+    frequent interruptions, deadlines, available resources and
+    multiple reporting relationships
+
+-   Plan, coordinate and organize workload while remaining aware of
+    changing Priorities and competing deadlines.
+
+-   Team management abilities, decision making, and cultural awareness.
+
+-   Strong initiative to new ideas, flexibility in adapting to changes,
+    and creativity in responding to challenges.
+
+-   Excellent communication skills (written and oral): Sensitivity to
+    and responsiveness to project staff, local authorities, and the
+    community.
+
+-   Commitment to the job and the organization.
+
+-   Responds positively to critical feedback and differing points of
+    view.
+
+-   Solicits feedback from staff about the impact of his/her own
+    behavior.
+
+### Experience, Qualifications and Skills:
+
+
+**Educational Qualifications:**
+
+-   Bachelor\'s degree or higher in psychology, sociology, human
+    sciences.
+
+**Professional Experience:**
+
+-   Knowledge on Development, humanitarian field, and design of
+    protection interventions.
+
+-   Having at least two years of experience working with an NGO in
+    similar positions.
+
+-   Having at least two years of experience in the relevant fields.
+
+-   Good language skills (writing & speaking) Kurdish and Arabic and
+    English.
+
+-   Excellent communication and reporting skills.
+
+**Skills:**
+
+-   Fluency in written and spoken in Arabic, Kurdish and English.
+
+
+### Reporting and Supervision 
+
+**Reports to: Project Assistant**
+
+
+### Expected Conduct:
+
+
+-   Ensure that confidentiality is always maintained when sharing data
+    and information about persons of concern;
+
+-   Maintain cooperative relationships with partners;
+
+-   Maintain high professional and ethical standard when both on and off
+    duty, including upholding the principles and practices set out in
+    the Code of Conduct and adhering to international standards;
+
+-   Seek guidance and technical support when needed with "Do no harm"
+    principle being the priority at all times.
+
+### Commitment: 
+
+
+-   All Harikar staff must be committed to the Core Humanitarian
+    Principles as well as the Core Humanitarian Standards in
+    Accountability and Quality Management
+
+-   All Harikar policies and guidelines are an integral part of this Job
+    Description and must be implemented, e.g.:
+
+    -  Harikar operational guidelines and Policies.
+
+    - Guideline prevention of corruption.
+
+    - Guideline on PSEA.
+
+    - Harikar Code of Conduct
+
+    -  Child Safeguarding
