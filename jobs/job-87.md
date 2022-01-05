@@ -27,18 +27,18 @@ header-includes: |
   \AddToShipoutPictureBG{\AtTextLowerLeft{\put(+90,+100){\transparent{0.1}\includegraphics[width=4in]{img/Harikar.png}}}}
 ---
 
-Job Title: Case Manager/PSS facilitator (Full time)  
+Job Title: Case Manager/PSS facilitator  
 Project Name: Strengthening Access to specialized protection services for returnees, IDPS in Ninewa governorate  
 Project Area: Neinawa Governorates  
 Vacancy Ref. No: 87  
 Number of Vacancies: 3  
-Applicants Residency: Hatra District (Outside Mosul city), Sinuni (Alshamal subdistrict), Qayrawan (Sinjar District)  
+Applicants Residence: Hatra District (Outside Mosul city), Sinuni (Alshamal subdistrict), Qayrawan (Sinjar District)  
 Preferable Gender: Female and Male  
 Duration of Appointment: 7 Months  
 Expected Starting Date: 1 February 2022  
 Deadline: 13 January 2022  
 Type of Contract: Full time  
-Working Hours: 8:00am\_3:30PM  
+Working Hours: 8:00PM_3:30PM  
 
 ### Background:
 

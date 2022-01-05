@@ -27,18 +27,18 @@ header-includes: |
   \AddToShipoutPictureBG{\AtTextLowerLeft{\put(+90,+100){\transparent{0.1}\includegraphics[width=4in]{img/Harikar.png}}}}
 ---
 
-Job Title: Cash Officer (Full time)  
+Job Title: Cash Officer  
 Project Name: Strengthening Access to specialized protection services for returnees, IDPS in Ninewa governorate  
 Project Area: Neinawa Governorate  
 Vacancy Ref. No: 88  
 Number of Vacancies No: 2  
-Applicants Duty Station: : Hatra District (Outside Mosul city), Sinuni (Alshamal subdistrict)  
+Applicants Residence: : Hatra District (Outside Mosul city), Sinuni (Alshamal subdistrict)  
 Preferable Gender: Female and Male  
 Duration of Appointment: 7 Months  
 Expected Starting Date: 1 February 2022  
 Deadline: 13 January 2022  
 Type of Contract: Employment Contract  
-Working Hours: 8:00am\_3:30PM  
+Working Hours: 8:00PM_3:30PM  
 
 ### Background:
 
