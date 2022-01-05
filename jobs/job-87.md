@@ -61,7 +61,7 @@ UNESCO, UNICEF, UNOCHA, Diakonia, UNDP, UNOPS, IRD, Mercy Corps, CARE
 International, ASB, GIZ, Acted, IRC, IRI, NDI, SCF-UK, Mission east,
 ICSP and others.
 
-#Terms of References
+# Terms of References
 
 ### Job Overview:
 
@@ -174,9 +174,9 @@ approach to mental health care.
 -   Fluency in written and spoken in Arabic, Kurdish and English.
 
 
-### Reporting and Supervision 
+### Reporting and Supervision:
 
-**Reports to: Project Assistant**
+**Reports to:** Project Assistant
 
 
 ### Expected Conduct:

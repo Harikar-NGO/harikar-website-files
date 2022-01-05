@@ -61,7 +61,7 @@ UNESCO, UNICEF, UNOCHA, Diakonia, UNDP, UNOPS, IRD, Mercy Corps, CARE
 International, ASB, GIZ, Acted, IRC, IRI, NDI, SCF-UK, Mission east,
 ICSP and others.
 
-#Terms of References
+# Terms of References
 
 
 ### Job Overview:
@@ -191,9 +191,9 @@ Donors' requirements.
 -   Fluency in written and spoken English, Kurdish, and Arabic.
 
 
-### Reporting and Supervision 
+### Reporting and Supervision:
 
-**Reports to: Project Assistant**
+**Reports to:** Project Assistant
 
 
 
