@@ -35,9 +35,9 @@ Number of Vacancies: 1
 Applicants Residence: Erbil and Duhok  
 Preferable Gender: Male & Female  
 Duration of Appointment: 10 months  
-Expected Starting Date: 1^st^ February 2022  
-Deadline: 20^th^ January 2022  
-Type of Contract: Employment Contract  
+Expected Starting Date: 15^th^ February 2022  
+Deadline: 9^th^ February 2022  
+Type of Contract: Full time contract  
 Working Hours: 8:00am-3:30pm  
 
 ### Background:
