@@ -45,9 +45,9 @@ Shekhan camp)
 
 **Duration of Appointment:** 5 months
 
-**Expected Starting Date:** 1 March 2022
+**Expected Starting Date:** 1^st^ March 2022
 
-**Deadline:** 24 Feb 2022
+**Deadline:** 24^th^ Feb 2022
 
 **Type of Contract:** Full Time
 
